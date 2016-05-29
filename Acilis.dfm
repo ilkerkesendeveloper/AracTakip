@@ -6020,8 +6020,8 @@ object frmAcilis: TfrmAcilis
   object Label1: TLabel
     Left = 8
     Top = 266
-    Width = 233
-    Height = 96
+    Width = 207
+    Height = 48
     Alignment = taCenter
     Caption = 'Ara'#231' Kontrol ve Takip Sistemi '
     Font.Charset = DEFAULT_CHARSET
